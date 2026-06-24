@@ -1,0 +1,87 @@
+/* ==========================================================================
+   billyemartinjr.com  ·  brand palette override on top of epp-v7.css
+   Reuses the v7 typographic + layout system; re-skins the palette to a
+   refined, executive personal brand: deep navy ink + a restrained brass.
+   ========================================================================== */
+:root{
+  /* Deep ink / navy base, cooler and more formal than EPP's */
+  --ink:#04070F; --ink-1:#070C18; --ink-2:#0E1730; --navy:#0B1426;
+
+  /* Warm executive paper */
+  --paper:#F6F4EE; --paper-2:#FFFFFF; --cream:#EDE7DA;
+
+  /* A single restrained metallic accent (brass) carries the brand.
+     The "i" gradient ramp is collapsed to a navy-to-brass executive ramp
+     so every gradient, button, eyebrow and step inherits the new identity. */
+  --i1:#C8A24C; --i2:#A8853A; --i3:#6E5A28;
+  --brass:#C8A24C; --brass-soft:#EFE2C4;
+
+  --grad:linear-gradient(100deg,#D8B868,#C8A24C 52%,#9C7E34);
+  --grad-warm:linear-gradient(100deg,#E2C176,#C8A24C 60%,#9C7E34);
+  --grad-soft:linear-gradient(120deg,rgba(200,162,76,.16),rgba(168,133,58,.12),rgba(110,90,40,.14));
+
+  --cta:#A8853A; --green:#5BA56A; --amber:#C8A24C;
+
+  --shadow-card:0 2px 4px rgba(11,20,38,.05),0 18px 48px -28px rgba(11,20,38,.30);
+  --glow:0 0 0 1px var(--line-d),0 48px 100px -38px rgba(200,162,76,.34);
+}
+
+/* Eyebrow + accents read brass, not cyan */
+.eyebrow{color:#E2C176}
+.eyebrow::before{background:linear-gradient(90deg,#E2C176,transparent)}
+.on-light .eyebrow{color:#9C7E34}
+.on-light .eyebrow::before{background:linear-gradient(90deg,#9C7E34,transparent)}
+
+/* Hero mesh blooms tuned to brass/navy instead of cyan/purple */
+.mesh-1{background:radial-gradient(circle,rgba(200,162,76,.42),transparent 65%)}
+.mesh-2{background:radial-gradient(circle,rgba(90,120,180,.34),transparent 65%)}
+
+/* Glow buttons get a brass shadow */
+.btn-glow:hover{box-shadow:0 24px 54px -12px rgba(200,162,76,.78)}
+.mobicta .mc-book{box-shadow:0 12px 28px -12px rgba(200,162,76,.7)}
+
+/* show-link + tier-step accents follow the brass ramp automatically via --i2,
+   but nudge the dark eryn/featured accent to a warm tone */
+.tier.featured .tier-step{color:#E2C176}
+.eryn-band{background:linear-gradient(135deg,#070C18,#15233f)}
+.eryn-band::before{background:radial-gradient(circle,rgba(200,162,76,.26),transparent 65%)}
+
+/* ---- Personal-brand specifics not in the v7 system ---- */
+
+/* Brandmark in the topbar: name + role kicker */
+.brand-name small{color:rgba(255,255,255,.5)}
+
+/* Hero portrait frame */
+.hero-portrait-frame{
+  position:relative;justify-self:center;width:100%;max-width:380px;
+  border-radius:var(--r-lg);overflow:hidden;
+  border:1px solid var(--line-d);
+  box-shadow:var(--shadow);
+}
+.hero-portrait-frame::after{
+  content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;
+  box-shadow:inset 0 0 0 1px rgba(200,162,76,.22);
+}
+.hero-portrait{display:block;width:100%;height:auto;object-fit:cover}
+
+/* Contact close band: navy panel + portrait, mirrors the eryn-band feel */
+.contact-band{position:relative;background:linear-gradient(135deg,#070C18,#10203c);color:var(--text-d);overflow:hidden;padding:clamp(70px,8vw,120px) 0}
+.contact-band::before{content:"";position:absolute;width:600px;height:600px;border-radius:50%;background:radial-gradient(circle,rgba(200,162,76,.24),transparent 65%);filter:blur(64px);bottom:-240px;left:-150px;pointer-events:none}
+.contact-inner{position:relative;display:grid;grid-template-columns:.85fr 1.15fr;gap:52px;align-items:center}
+.contact-photo{width:100%;max-width:320px;border-radius:var(--r-lg);border:1px solid var(--line-d);box-shadow:var(--shadow);justify-self:center}
+.contact-title{font-size:clamp(2.1rem,4.4vw,3.4rem);letter-spacing:-.026em;margin:.35em 0 .5em}
+.contact-info p{color:var(--muted-d);font-size:1.06rem;line-height:1.65;margin:0 0 14px}
+.contact-info strong{color:var(--text-d)}
+.contact-info a{color:#E2C176}
+.contact-info a:hover{color:#fff}
+
+/* Footer simple inner used on the personal site */
+.footer-inner{display:flex;flex-wrap:wrap;justify-content:space-between;gap:14px;align-items:center}
+.footer-inner p{margin:0;color:rgba(234,240,251,.7);font-size:.9rem}
+.footer-inner a{color:rgba(234,240,251,.82)}.footer-inner a:hover{color:#fff}
+
+@media(max-width:880px){
+  .hero-portrait-frame{max-width:300px;order:-1}
+  .contact-inner{grid-template-columns:1fr;gap:34px}
+  .contact-photo{max-width:240px}
+}
