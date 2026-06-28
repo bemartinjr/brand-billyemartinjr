@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TL;DR: Don&#x27;t use Google Authenticator&#x27;s Online Sync Function | Billy E. Martin Jr.</title>
+  <meta name="description" content="">
+  <meta name="theme-color" content="#04070F">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="TL;DR: Don&#x27;t use Google Authenticator&#x27;s Online Sync Function">
+  <meta property="og:site_name" content="Billy E. Martin Jr.">
+  <meta property="og:url" content="https://billyemartinjr.com/publishing/it-matters/tldr-dont-use-google-authenticators/">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="https://billyemartinjr.com/uploads/articles/it-matters/tldr-dont-use-google-authenticators/hero.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700;800&family=Geist+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="/assets/epp-v7.css">
+  <link rel="stylesheet" href="/assets/brand.css">
+  <style>
+  .art-head{position:relative;background:radial-gradient(120% 90% at 82% -8%,#19315f 0,#0c1430 42%,var(--ink,#04070F) 100%);color:#eaf0fb;overflow:hidden;padding:clamp(58px,7vw,104px) 0 clamp(34px,4.5vw,60px)}
+  .art-head::after{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.045) 1px,transparent 1px);background-size:4px 4px;mix-blend-mode:overlay;pointer-events:none}
+  .art-head-inner{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:0 30px}
+  .art-eyebrow{font-family:var(--ff-mono,'Geist Mono',monospace);font-size:.74rem;font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:#E2C176;display:inline-flex;align-items:center;gap:.7em}
+  .art-eyebrow::before{content:"";width:26px;height:1px;background:linear-gradient(90deg,#E2C176,transparent)}
+  .art-head h1{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(2rem,4.2vw,3.2rem);margin:.4em 0 .35em;letter-spacing:-.02em;line-height:1.06}
+  .art-meta{font-family:var(--ff-mono,'Geist Mono',monospace);font-size:.8rem;letter-spacing:.04em;color:#9fb0c8}
+  .art-wrap{max-width:760px;margin:0 auto;padding:clamp(38px,5vw,68px) 30px clamp(56px,7vw,96px)}
+  .art-body{font-family:'Inter',system-ui,sans-serif;font-size:1.13rem;line-height:1.75;color:#1b2433}
+  .art-body > *:first-child{margin-top:0}
+  .art-body p{margin:0 0 1.3em}
+  .art-body h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:1.65rem;margin:1.9em 0 .5em;line-height:1.2;color:#0c1430}
+  .art-body h3{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:1.3rem;margin:1.5em 0 .4em;color:#0c1430}
+  .art-body img{max-width:100%;height:auto;border-radius:12px;margin:1.6em auto;display:block;box-shadow:0 8px 30px rgba(12,20,48,.12)}
+  .art-body figure{margin:1.6em 0}.art-body figcaption{font-size:.85rem;color:#64748b;text-align:center;margin-top:.5em}
+  .art-body a{color:#0b5cab;text-decoration:underline;text-underline-offset:2px}
+  .art-body blockquote{border-left:3px solid #c8a24c;margin:1.6em 0;padding:.3em 0 .3em 1.3em;color:#475569;font-style:italic}
+  .art-body ul,.art-body ol{margin:0 0 1.3em 1.4em}.art-body li{margin:.35em 0}
+  .art-body hr{border:0;border-top:1px solid #e2e8f0;margin:2.4em 0}
+  .art-body pre{background:#0c1430;color:#eaf0fb;padding:1em 1.2em;border-radius:10px;overflow:auto;font-size:.9rem;margin:1.4em 0}
+  .art-body code{font-family:var(--ff-mono,'Geist Mono',monospace);font-size:.92em}
+  .back-link{display:inline-block;margin-top:3rem;font-family:var(--ff-mono,'Geist Mono',monospace);font-size:.82rem;letter-spacing:.05em;color:#0b5cab;text-decoration:none}
+  .back-link:hover{text-decoration:underline}
+  </style>
+</head>
+<body>
+<a href="#main" class="skip-link" title="Skip to content">Skip to content</a>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand-link" href="/" aria-label="Billy E. Martin Jr. home" title="Billy E. Martin Jr. home">
+      <span class="brand-name">Billy E. Martin Jr.<small>Technology &amp; Security Executive</small></span>
+    </a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false">&#9776;</button>
+    <nav class="main-nav" aria-label="Primary">
+      <ul>
+        <li><a href="/" title="Home">Home</a></li>
+        <li><a href="/about/" title="About">About</a></li>
+        <li><a href="/testimonials/" title="Testimonials">Testimonials</a></li>
+        <li><a class="active" href="/blog/" title="Writing">Writing</a></li>
+        <li><a href="https://eaglepointpublishing.com" rel="noopener" class="nav-cta" title="Eagle Point Publishing">Eagle Point Publishing</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+  <section class="art-head">
+    <div class="art-head-inner">
+      <div class="art-eyebrow">IT Matters</div>
+      <h1>TL;DR: Don&#x27;t use Google Authenticator&#x27;s Online Sync Function</h1>
+      <div class="art-meta">Apr 27, 2023</div>
+    </div>
+  </section>
+  <article class="art-wrap">
+    <div class="art-body"><p>On April 24th, Google rolled out a feature for its Google Authenticator app that allows a user to sync their authentication codes between multiple devices in their cloud. The premise is that if a user loses their phone they won’t lose all of their Two-factor Authentication (2FA) codes. I’m a huge fan and supporter of Google Authenticator but the problem with this new feature is that Google isn’t properly securing the data at rest. </p><figure><div class="image2-inset"><picture><source type="image/webp" srcset="https://substackcdn.com/image/fetch/$s_!8_Ow!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 424w, https://substackcdn.com/image/fetch/$s_!8_Ow!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 848w, https://substackcdn.com/image/fetch/$s_!8_Ow!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 1272w, https://substackcdn.com/image/fetch/$s_!8_Ow!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 1456w" sizes="100vw"><img src="/uploads/articles/it-matters/tldr-dont-use-google-authenticators/hero.png" width="638" height="613.8177419354839" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1193,&quot;width&quot;:1240,&quot;resizeWidth&quot;:638,&quot;bytes&quot;:2064142,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" class="sizing-normal" alt="" srcset="https://substackcdn.com/image/fetch/$s_!8_Ow!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 424w, https://substackcdn.com/image/fetch/$s_!8_Ow!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 848w, https://substackcdn.com/image/fetch/$s_!8_Ow!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 1272w, https://substackcdn.com/image/fetch/$s_!8_Ow!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5ebdeb-eefb-4d23-b4f5-d4661ca033cc_1240x1193.png 1456w" sizes="100vw" fetchpriority="high"></picture><div class="image-link-expand"><div class="pencraft pc-display-flex pc-gap-8 pc-reset"><button tabindex="0" type="button" class="pencraft pc-reset pencraft icon-container restack-image"><svg role="img" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke-width="1.5" stroke="var(--color-fg-primary)" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"><g><title></title><path d="M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882"></path></g></svg></button><button tabindex="0" type="button" class="pencraft pc-reset pencraft icon-container view-image"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-maximize2 lucide-maximize-2"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" x2="14" y1="3" y2="10"></line><line x1="3" x2="10" y1="21" y2="14"></line></svg></button></div></div></div></a></figure></div><p>One day later, <a href="https://nakedsecurity.sophos.com/2023/04/26/google-leaking-2fa-secrets-researchers-advise-against-new-account-sync-feature-for-now/">Naked Security</a> had already conducted research on the capability and pointed out that Google is exposing account and seed data while the data is unencrypted inside their network, making the data susceptible to discovery. </p><p><a href="https://www.androidauthority.com/google-authenticator-feature-3317441/">Android Authority</a> confirmed this on the 26th in an article that included a quote by Google’s own Product Manager, who states:</p><blockquote><p>…<em>We encrypt data in transit, and at rest, across our products, including in Google Authenticator. E2EE [end-to-end encryption] is a powerful feature that provides extra protections, but at the cost of enabling users to get locked out of their own data without recovery. To make sure we’re offering users a full set of options, we’ve started rolling out optional E2E encryption in some of our products, and we have plans to offer E2EE for Google Authenticator down the line. Right now, we believe that our current product strikes the right balance for most users and provides significant benefits over offline use. However, the option to use the app offline will remain an alternative for those who prefer to manage their backup strategy themselves.</em></p></blockquote><p>The <a href="https://www.androidauthority.com/google-authenticator-feature-3317441/">article</a> goes on to discuss research by software company Msyk:</p><blockquote><p><em>We analyzed the network traffic when the app syncs the secrets, and it turns out the traffic is not end-to-end encrypted. As shown in the screenshots, this means that Google can see the secrets, likely even while they’re stored on their servers. There is no option to add a passphrase to protect the secrets, to make them accessible only by the user.</em></p></blockquote><p>It seems pretty clear at this time that there are some real privacy / security issues at play here, Google apparently knows about them (and can apparently see the data associated with each code and related site where they can serve up ads) but “…<em>Right now</em>…” doesn’t appear to be willing to address them.  Even with this in mind I’m not suggesting that users stop using Google Authenticator and this certainly is not the end of the world. </p><p>Rather, I would submit that users take a step back and have a more proactive and systematic approach to security. Most users will at some point have their phone lost or stolen, dropped in the toilet or smashed in an airline <a href="https://bestlifeonline.com/phone-stuck-plane-seat-news/">seat</a> catching the plane on fire. Knowing the odds of this happening are better than average why not keep your 2FA codes on two separate devices that you physically control? This is something that Google Authenticator already allows, the problem is that most people don’t want to invest the time before a significant event to prepare. Trust me though when I say it will take more time trying to reconstitute all of your codes and clean up your authenticated logins after an incident than simply doing one of these steps beforehand.</p><p><a href="https://medium.com/@jackknutson333/setting-up-google-authenticator-on-multiple-devices-1a09c4094e02">Medium</a> has a clearly defined article on the first method, so I’m not going to try and repeat here everything they point out, but this method generally involves recreating all of your codes from each site where you need them on two separate devices at the same time. Not a bad way to go if you are starting out from scratch with Google Authenticator.</p><p>However, what if you are already an Authenticator user and you have 20+ codes already saved on your primary device? Since May 2020, if you don’t want to go through that trouble the other method is to just proactively export your codes from your current phone to a backup device. The device types don’t matter so you can have two Android phones, two iPhones, or one of each. Going this route keeps the codes active on the first device and merely copies (not transfers) them to the second device. All it takes is a simple 12-step process (seriously, it’s not that bad):</p><ol><li><p>Open Google Authenticator app on your old phone.</p></li><li><p>Select three dots at the top right corner of the app.</p></li><li><p>Select <strong>Transfer Accounts</strong>.</p></li><li><p>Select <strong>Export Accounts</strong>.</p></li><li><p>Select the accounts you would like to transfer and press <strong>Next</strong>. (you can select individual accounts for follow-on transfers after the first)</p></li><li><p>Open Google Authenticator app on your new phone.</p></li><li><p>Select three dots at the top right corner of your phone.</p></li><li><p>Select <strong>Transfer Accounts</strong>.</p></li><li><p>Select <strong>Import Accounts</strong>.</p></li><li><p>Press Scan QR Code button.</p></li><li><p>Scan the QR Code displayed on an old phone using your new phone.</p></li><li><p>Press Done on an old phone.</p></li></ol><p>That’s all there is to it. You can also download and save backup codes and print them to hardcopy for secure storage, but please Do Not take a picture of your Authenticator QR code and save it online. That’s just begging for trouble…</p><p></p></div>
+    <a class="back-link" href="/blog/">&larr; All writing</a>
+  </article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-inner">
+      <p>&copy; 2026 Billy E. Martin Jr.</p>
+      <p><a href="mailto:billy@billyemartinjr.com" title="Email">Email</a> &middot; <a href="https://www.linkedin.com/in/billy-martin-jr/" rel="noopener" title="LinkedIn">LinkedIn</a> &middot; <a href="https://eaglepointpublishing.com" rel="noopener" title="Eagle Point Publishing">Eagle Point Publishing</a></p>
+    </div>
+  </div>
+</footer>
+<script src="/nav.js"></script>
+</body>
+</html>

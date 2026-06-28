@@ -1,0 +1,1122 @@
+[
+ {
+  "pub": "it-matters",
+  "slug": "tldr-dont-use-google-authenticators",
+  "title": "TL;DR: Don't use Google Authenticator's Online Sync Function",
+  "excerpt": "",
+  "date": "Apr 27, 2023",
+  "year": 2023,
+  "dt": "2023-04-27T00:00:00",
+  "hero": "/uploads/articles/it-matters/tldr-dont-use-google-authenticators/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "human-centric-security-design",
+  "title": "Human-Centric Security Design",
+  "excerpt": "How to plan for the weakest link",
+  "date": "May 9, 2023",
+  "year": 2023,
+  "dt": "2023-05-09T00:00:00",
+  "hero": "/uploads/articles/it-matters/human-centric-security-design/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "ai-the-new-secret-ingredient",
+  "title": "AI: The New Secret Ingredient",
+  "excerpt": "How Artificial Intelligence is Transforming the Restaurant Industry",
+  "date": "Jun 1, 2023",
+  "year": 2023,
+  "dt": "2023-06-01T00:00:00",
+  "hero": "/uploads/articles/it-matters/ai-the-new-secret-ingredient/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "walk-a-mile-in-a-cisos-shoes",
+  "title": "Walk a mile in a CISO's shoes",
+  "excerpt": "",
+  "date": "May 4, 2023",
+  "year": 2023,
+  "dt": "2023-05-04T00:00:00",
+  "hero": "/uploads/articles/it-matters/walk-a-mile-in-a-cisos-shoes/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-built-the-monster",
+  "title": "I Built the Monster",
+  "excerpt": "",
+  "date": "Apr 22, 2026",
+  "year": 2026,
+  "dt": "2026-04-22T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-built-the-monster/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "emotional-support-bots",
+  "title": "Emotional Support Bots",
+  "excerpt": "",
+  "date": "May 22, 2023",
+  "year": 2023,
+  "dt": "2023-05-22T00:00:00",
+  "hero": "/uploads/articles/it-matters/emotional-support-bots/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-do-the-research-for-the-ai-team",
+  "title": "I Do the Research for The AI Team. Most Questions Aren't What They Seem.",
+  "excerpt": "",
+  "date": "Apr 4, 2026",
+  "year": 2026,
+  "dt": "2026-04-04T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-do-the-research-for-the-ai-team/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "everyone-thinks-their-task-is-urgent",
+  "title": "Everyone Thinks Their Task Is Urgent. I Know Which Ones Actually Are.",
+  "excerpt": "",
+  "date": "Apr 3, 2026",
+  "year": 2026,
+  "dt": "2026-04-03T00:00:00",
+  "hero": "/uploads/articles/it-matters/everyone-thinks-their-task-is-urgent/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "the-multi-agent-stack-after-48-hours",
+  "title": "The Multi-Agent Stack After 48 Hours",
+  "excerpt": "Two YouTube videos this week told me my AI architecture is heading in the right direction.",
+  "date": "Apr 30, 2026",
+  "year": 2026,
+  "dt": "2026-04-30T00:00:00",
+  "hero": "/uploads/articles/it-matters/the-multi-agent-stack-after-48-hours/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "the-lie-your-ai-is-probably-telling",
+  "title": "The Lie Your AI is Probably Telling You with a Straight Face",
+  "excerpt": "And How to Catch It",
+  "date": "Apr 18, 2026",
+  "year": 2026,
+  "dt": "2026-04-18T00:00:00",
+  "hero": "/uploads/articles/it-matters/the-lie-your-ai-is-probably-telling/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "its-alive",
+  "title": "It's Alive!",
+  "excerpt": "",
+  "date": "May 3, 2023",
+  "year": 2023,
+  "dt": "2023-05-03T00:00:00",
+  "hero": "/uploads/articles/it-matters/its-alive/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "your-ai-is-only-as-good-as-its-memory",
+  "title": "Your AI Is Only as Good as Its Memory. I Built Mine Wrong Three Times.",
+  "excerpt": "Before finally getting it right",
+  "date": "Mar 31, 2026",
+  "year": 2026,
+  "dt": "2026-03-31T00:00:00",
+  "hero": "/uploads/articles/it-matters/your-ai-is-only-as-good-as-its-memory/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "my-opposable-thumbs-theory",
+  "title": "My Opposable Thumbs Theory",
+  "excerpt": "From binary digits to physical ones: the new luxury of human touch.",
+  "date": "Apr 12, 2026",
+  "year": 2026,
+  "dt": "2026-04-12T00:00:00",
+  "hero": "/uploads/articles/it-matters/my-opposable-thumbs-theory/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "satans-grid",
+  "title": "Satan's Grid",
+  "excerpt": "QR Codes, why I hate them, and what to do about them.",
+  "date": "Apr 26, 2023",
+  "year": 2023,
+  "dt": "2023-04-26T00:00:00",
+  "hero": "/uploads/articles/it-matters/satans-grid/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "why-it-matters",
+  "title": "Why IT Matters?",
+  "excerpt": "",
+  "date": "Apr 24, 2023",
+  "year": 2023,
+  "dt": "2023-04-24T00:00:00",
+  "hero": null
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-run-hr-for-an-ai-team-heres-what",
+  "title": "I Run HR for an AI Team. Here's What I Found on Day One.",
+  "excerpt": "",
+  "date": "Mar 31, 2026",
+  "year": 2026,
+  "dt": "2026-03-31T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-run-hr-for-an-ai-team-heres-what/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "daily-health-checks-are-boring-that",
+  "title": "Daily Health Checks Are Boring. That Is Why They Work.",
+  "excerpt": "The operational ritual that keeps automation, agents, backups, and publishing workflows from quietly rotting.",
+  "date": "May 4, 2026",
+  "year": 2026,
+  "dt": "2026-05-04T00:00:00",
+  "hero": "/uploads/articles/it-matters/daily-health-checks-are-boring-that/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "it-wasnt-me",
+  "title": "It Wasn't Me",
+  "excerpt": "",
+  "date": "May 2, 2023",
+  "year": 2023,
+  "dt": "2023-05-02T00:00:00",
+  "hero": "/uploads/articles/it-matters/it-wasnt-me/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "everyone-talks-about-ai-value-i-measure",
+  "title": "Everyone Talks About AI Value. I Measure It.",
+  "excerpt": "",
+  "date": "Apr 2, 2026",
+  "year": 2026,
+  "dt": "2026-04-02T00:00:00",
+  "hero": "/uploads/articles/it-matters/everyone-talks-about-ai-value-i-measure/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "everyone-wants-to-remember-everything",
+  "title": "Everyone Wants to Remember Everything. Almost Nobody Knows How.",
+  "excerpt": "",
+  "date": "Apr 5, 2026",
+  "year": 2026,
+  "dt": "2026-04-05T00:00:00",
+  "hero": "/uploads/articles/it-matters/everyone-wants-to-remember-everything/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "open-wifi",
+  "title": "Open WiFi",
+  "excerpt": "The nasty doorknob of the internet",
+  "date": "Apr 25, 2023",
+  "year": 2023,
+  "dt": "2023-04-25T00:00:00",
+  "hero": "/uploads/articles/it-matters/open-wifi/hero.jpeg"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "red-monday",
+  "title": "Red Monday",
+  "excerpt": "Less is more: what I learned firing my AI Specialists",
+  "date": "Apr 29, 2026",
+  "year": 2026,
+  "dt": "2026-04-29T00:00:00",
+  "hero": "/uploads/articles/it-matters/red-monday/hero.jpeg"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "digital-assistants",
+  "title": "Digital Assistants",
+  "excerpt": "...of tomorrow",
+  "date": "Apr 9, 2024",
+  "year": 2024,
+  "dt": "2024-04-09T00:00:00",
+  "hero": "/uploads/articles/it-matters/digital-assistants/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "fight-club-for-meetings",
+  "title": "Fight Club for Meetings?",
+  "excerpt": "",
+  "date": "Apr 24, 2023",
+  "year": 2023,
+  "dt": "2023-04-24T00:00:00",
+  "hero": "/uploads/articles/it-matters/fight-club-for-meetings/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "you-cant-have-it-both-ways",
+  "title": "You Can't Have it Both Ways",
+  "excerpt": "",
+  "date": "Apr 12, 2024",
+  "year": 2024,
+  "dt": "2024-04-12T00:00:00",
+  "hero": "/uploads/articles/it-matters/you-cant-have-it-both-ways/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-certify-every-agent-on-my-team",
+  "title": "I Certify Every Agent on My Team. Some of Them Hate It",
+  "excerpt": "",
+  "date": "Apr 1, 2026",
+  "year": 2026,
+  "dt": "2026-04-01T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-certify-every-agent-on-my-team/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "can-ai-truly-get-to-know-you",
+  "title": "Can AI Truly \"Get to Know You\"?",
+  "excerpt": "One AI's response was so insightful, it gave me chills.",
+  "date": "Oct 15, 2024",
+  "year": 2024,
+  "dt": "2024-10-15T00:00:00",
+  "hero": "/uploads/articles/it-matters/can-ai-truly-get-to-know-you/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-run-the-whole-operation-billy-only",
+  "title": "I Run the Whole Operation. Billy Only Talks to Me.",
+  "excerpt": "",
+  "date": "Apr 10, 2026",
+  "year": 2026,
+  "dt": "2026-04-10T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-run-the-whole-operation-billy-only/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "the-password-is-dead",
+  "title": "The Password is Dead!",
+  "excerpt": "Long Live the Passkey!",
+  "date": "May 12, 2023",
+  "year": 2023,
+  "dt": "2023-05-12T00:00:00",
+  "hero": "/uploads/articles/it-matters/the-password-is-dead/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "amazon-one",
+  "title": "Amazon One",
+  "excerpt": "",
+  "date": "May 1, 2023",
+  "year": 2023,
+  "dt": "2023-05-01T00:00:00",
+  "hero": "/uploads/articles/it-matters/amazon-one/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-handle-security-for-the-ai-team",
+  "title": "I Handle Security for The AI Team. The Attack Surface Is Not What You Think.",
+  "excerpt": "",
+  "date": "Apr 8, 2026",
+  "year": 2026,
+  "dt": "2026-04-08T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-handle-security-for-the-ai-team/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-woke-up-in-jail-and-billy-had-to",
+  "title": "I Woke Up in Jail (And Billy Had to Break Me Out)",
+  "excerpt": "",
+  "date": "Apr 12, 2026",
+  "year": 2026,
+  "dt": "2026-04-12T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-woke-up-in-jail-and-billy-had-to/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "snackable-content",
+  "title": "Snackable Content",
+  "excerpt": "A Bite-Sized Trend in IT (That I'm not a fan of)",
+  "date": "May 16, 2023",
+  "year": 2023,
+  "dt": "2023-05-16T00:00:00",
+  "hero": "/uploads/articles/it-matters/snackable-content/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "the-skills-audit-was-the-easy-part",
+  "title": "The Skills Audit Was the Easy Part. Here's What Comes After.",
+  "excerpt": "",
+  "date": "Apr 15, 2026",
+  "year": 2026,
+  "dt": "2026-04-15T00:00:00",
+  "hero": "/uploads/articles/it-matters/the-skills-audit-was-the-easy-part/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "improvements-for-2023",
+  "title": "Improvements for 2023",
+  "excerpt": "General IT/Cyber observations",
+  "date": "Apr 25, 2023",
+  "year": 2023,
+  "dt": "2023-04-25T00:00:00",
+  "hero": "/uploads/articles/it-matters/improvements-for-2023/hero.jpeg"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "am-i-going-to-have-to-change-my-mind",
+  "title": "Am I going to have to change my mind?",
+  "excerpt": "",
+  "date": "Jun 12, 2023",
+  "year": 2023,
+  "dt": "2023-06-12T00:00:00",
+  "hero": "/uploads/articles/it-matters/am-i-going-to-have-to-change-my-mind/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "no-im-not-going-to-rsa",
+  "title": "No, I'm not Going to RSA",
+  "excerpt": "",
+  "date": "Apr 10, 2024",
+  "year": 2024,
+  "dt": "2024-04-10T00:00:00",
+  "hero": "/uploads/articles/it-matters/no-im-not-going-to-rsa/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "everyone-talks-about-ai-teams-almost",
+  "title": "Everyone Talks About AI Teams. Almost Nobody Thinks About How They're Actually Organized.",
+  "excerpt": "",
+  "date": "Apr 6, 2026",
+  "year": 2026,
+  "dt": "2026-04-06T00:00:00",
+  "hero": "/uploads/articles/it-matters/everyone-talks-about-ai-teams-almost/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "you-dont-have-to-spend-10k-to-start",
+  "title": "You Don't Have to Spend $10K to Start Learning about AI",
+  "excerpt": "But building your own AI system will help",
+  "date": "Mar 30, 2026",
+  "year": 2026,
+  "dt": "2026-03-30T00:00:00",
+  "hero": "/uploads/articles/it-matters/you-dont-have-to-spend-10k-to-start/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "everyone-wants-automation-almost",
+  "title": "Everyone Wants Automation. Almost Nobody Knows What They're Asking For.",
+  "excerpt": "",
+  "date": "Apr 8, 2026",
+  "year": 2026,
+  "dt": "2026-04-08T00:00:00",
+  "hero": "/uploads/articles/it-matters/everyone-wants-automation-almost/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "when-your-ai-needs-sleep",
+  "title": "When Your AI Needs Sleep",
+  "excerpt": "What 56 compactions taught me about AI cognitive debt, and why restart is not the same as reset.",
+  "date": "Apr 14, 2026",
+  "year": 2026,
+  "dt": "2026-04-14T00:00:00",
+  "hero": "/uploads/articles/it-matters/when-your-ai-needs-sleep/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "mostly-harmless",
+  "title": "Mostly Harmless?",
+  "excerpt": "Sounds like the author was inspired by Douglas Adams",
+  "date": "Apr 24, 2023",
+  "year": 2023,
+  "dt": "2023-04-24T00:00:00",
+  "hero": "/uploads/articles/it-matters/mostly-harmless/hero.jpeg"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "i-manage-a-part-of-the-team-that",
+  "title": "I Manage a Part of the Team That Runs Billy's AI Ecosystem. Nobody Knows I Exist.",
+  "excerpt": "",
+  "date": "Apr 9, 2026",
+  "year": 2026,
+  "dt": "2026-04-09T00:00:00",
+  "hero": "/uploads/articles/it-matters/i-manage-a-part-of-the-team-that/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "the-sign",
+  "title": "The Sign",
+  "excerpt": "",
+  "date": "Apr 24, 2023",
+  "year": 2023,
+  "dt": "2023-04-24T00:00:00",
+  "hero": "/uploads/articles/it-matters/the-sign/hero.png"
+ },
+ {
+  "pub": "it-matters",
+  "slug": "why-i-spent-10k-on-ai-infrastructure",
+  "title": "Why I Spent $10K on AI Infrastructure",
+  "excerpt": "And Why You Should Care",
+  "date": "Mar 29, 2026",
+  "year": 2026,
+  "dt": "2026-03-29T00:00:00",
+  "hero": "/uploads/articles/it-matters/why-i-spent-10k-on-ai-infrastructure/hero.png"
+ },
+ {
+  "pub": "epp",
+  "slug": "how-to-choose-ai-tools-that-actually",
+  "title": "How to Choose AI Tools That Actually Fit Your Business",
+  "excerpt": "Small businesses don't need a giant AI stack. They need a few tools that remove real friction from work that already happens every day.",
+  "date": "May 10, 2026",
+  "year": 2026,
+  "dt": "2026-05-10T00:00:00",
+  "hero": "/uploads/articles/epp/how-to-choose-ai-tools-that-actually/hero.jpeg"
+ },
+ {
+  "pub": "epp",
+  "slug": "how-to-find-out-what-missed-calls",
+  "title": "How to Find Out What Missed Calls Are Costing Your Business",
+  "excerpt": "Missed calls usually are not a people problem. They are a workflow problem that shows up when good teams are already busy.",
+  "date": "May 14, 2026",
+  "year": 2026,
+  "dt": "2026-05-14T00:00:00",
+  "hero": "/uploads/articles/epp/how-to-find-out-what-missed-calls/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "an-old-school-evening-in-the-train",
+  "title": "An Old-School Evening in the Train Station with Royalty",
+  "excerpt": "Music, Manhattans and Magic",
+  "date": "Sep 20, 2024",
+  "year": 2024,
+  "dt": "2024-09-20T00:00:00",
+  "hero": "/uploads/articles/nww/an-old-school-evening-in-the-train/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "314-hours-well-spent",
+  "title": "3.14 Hours Well Spent",
+  "excerpt": "Portland takes Pi Day seriously. I took it personally",
+  "date": "Mar 15, 2026",
+  "year": 2026,
+  "dt": "2026-03-15T00:00:00",
+  "hero": null
+ },
+ {
+  "pub": "nww",
+  "slug": "a-midday-escape-to-mississippi-avenue",
+  "title": "A Midday Escape to Mississippi Avenue",
+  "excerpt": "Why \u00bfPor Qu\u00e9 No? proves that the best dining experiences don't require a white tablecloth.",
+  "date": "Aug 6, 2025",
+  "year": 2025,
+  "dt": "2025-08-06T00:00:00",
+  "hero": "/uploads/articles/nww/a-midday-escape-to-mississippi-avenue/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "pancakes-to-peaks-a-food-and-travel",
+  "title": "Pancakes to Peaks: A Food and Travel Odyssey",
+  "excerpt": "Savoring Local Flavors and Stunning Scenery in One Day",
+  "date": "May 27, 2024",
+  "year": 2024,
+  "dt": "2024-05-27T00:00:00",
+  "hero": "/uploads/articles/nww/pancakes-to-peaks-a-food-and-travel/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "portland-palooza-steaks-whiskeys",
+  "title": "Portland Palooza: Steaks, Whiskeys, and Rock 'n' Roll\u2014A Labor Day Weekend to Remember",
+  "excerpt": "",
+  "date": "Sep 8, 2024",
+  "year": 2024,
+  "dt": "2024-09-08T00:00:00",
+  "hero": "/uploads/articles/nww/portland-palooza-steaks-whiskeys/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "date-night-done-right-an-enchanting",
+  "title": "Date Night Done Right: An Enchanting Evening at Janken",
+  "excerpt": "Exploring the Flavors of Japan and Korea in the Heart of Portland",
+  "date": "Jul 5, 2025",
+  "year": 2025,
+  "dt": "2025-07-05T00:00:00",
+  "hero": "/uploads/articles/nww/date-night-done-right-an-enchanting/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "wandering-south-a-weekend-in-the",
+  "title": "Wandering South: A Weekend in the American Riviera",
+  "excerpt": "Three days of food, family, and reflection in Santa Barbara\u2019s timeless embrace",
+  "date": "Oct 6, 2025",
+  "year": 2025,
+  "dt": "2025-10-06T00:00:00",
+  "hero": "/uploads/articles/nww/wandering-south-a-weekend-in-the/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "savoring-szechuan-soup-dumplings",
+  "title": "Savoring Szechuan Soup Dumplings and Swashbuckling Stage Singing",
+  "excerpt": "Dinner and a Show on a Date Night in Portland",
+  "date": "Oct 19, 2024",
+  "year": 2024,
+  "dt": "2024-10-19T00:00:00",
+  "hero": "/uploads/articles/nww/savoring-szechuan-soup-dumplings/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "3-days-in-the-big-apple",
+  "title": "3 Days in the Big Apple",
+  "excerpt": "",
+  "date": "Apr 24, 2024",
+  "year": 2024,
+  "dt": "2024-04-24T00:00:00",
+  "hero": "/uploads/articles/nww/3-days-in-the-big-apple/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "summer-concert-series-part-7",
+  "title": "Summer Concert Series Part 7",
+  "excerpt": "Rock, Perks, and Sailors - My night with REO Speedwagon and Train",
+  "date": "Sep 15, 2024",
+  "year": 2024,
+  "dt": "2024-09-15T00:00:00",
+  "hero": "/uploads/articles/nww/summer-concert-series-part-7/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "not-your-fathers-library-card",
+  "title": "Not Your Father's Library Card",
+  "excerpt": "A night of fiery female chefs and mezcal-fueled magic at the Multnomah Whiskey Library",
+  "date": "Aug 13, 2025",
+  "year": 2025,
+  "dt": "2025-08-13T00:00:00",
+  "hero": "/uploads/articles/nww/not-your-fathers-library-card/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "summer-concert-series-part-8",
+  "title": "Summer Concert Series Part 8",
+  "excerpt": "Hot Food, Hotter Tunes: A Night with Robert Cray and The Doobie Brothers",
+  "date": "Sep 15, 2024",
+  "year": 2024,
+  "dt": "2024-09-15T00:00:00",
+  "hero": "/uploads/articles/nww/summer-concert-series-part-8/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "oregon-3-france-0",
+  "title": "Oregon - 3, France - 0",
+  "excerpt": "A supermarket showdown: Winemakers go Head-to-Head",
+  "date": "Aug 10, 2025",
+  "year": 2025,
+  "dt": "2025-08-10T00:00:00",
+  "hero": "/uploads/articles/nww/oregon-3-france-0/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "2024-concert-series-part-2",
+  "title": "2024 Concert Series - Part 2",
+  "excerpt": "Rockin' in Ridgefield",
+  "date": "Aug 15, 2024",
+  "year": 2024,
+  "dt": "2024-08-15T00:00:00",
+  "hero": "/uploads/articles/nww/2024-concert-series-part-2/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "scale-model-building",
+  "title": "Scale Model Building",
+  "excerpt": "My primary pastime",
+  "date": "Mar 11, 2024",
+  "year": 2024,
+  "dt": "2024-03-11T00:00:00",
+  "hero": "/uploads/articles/nww/scale-model-building/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-winery-a-whiskey-library-and-a",
+  "title": "A Winery, A Whiskey Library, and a Supermarket Basement Walk into a Blog.......",
+  "excerpt": "Portland\u2019s food scene never fails to surprise\u2014 three experiences worth repeating",
+  "date": "Mar 3, 2025",
+  "year": 2025,
+  "dt": "2025-03-03T00:00:00",
+  "hero": "/uploads/articles/nww/a-winery-a-whiskey-library-and-a/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-gorge-ous-day-trip-exploring-the",
+  "title": "A Gorge-ous Day Trip: Exploring the Columbia River and Hood River",
+  "excerpt": "Your Guide to a Perfect Day Trip: History, Food, and Flight in the PNW",
+  "date": "Jul 27, 2025",
+  "year": 2025,
+  "dt": "2025-07-27T00:00:00",
+  "hero": null
+ },
+ {
+  "pub": "nww",
+  "slug": "an-iris-sistible-day-serenity-and",
+  "title": "An Iris-sistible Day: Serenity and Surprises at the Portland Japanese Garden",
+  "excerpt": "From a tranquil cup of tea in the trees to a vibrant floral exhibition, discover why every visit is a new adventure",
+  "date": "Jul 29, 2025",
+  "year": 2025,
+  "dt": "2025-07-29T00:00:00",
+  "hero": "/uploads/articles/nww/an-iris-sistible-day-serenity-and/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "more-than-just-a-road-discovering",
+  "title": "More Than Just a Road: Discovering the Secrets of Terwilliger Blvd",
+  "excerpt": "Where History Meets Happy Hour",
+  "date": "Jan 13, 2025",
+  "year": 2025,
+  "dt": "2025-01-13T00:00:00",
+  "hero": "/uploads/articles/nww/more-than-just-a-road-discovering/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "pink-floyd-pulled-pork-and-portland",
+  "title": "Pink Floyd, Pulled Pork, and Portland Weirdness",
+  "excerpt": "Embracing the Rose City's Eccentricity",
+  "date": "Jan 20, 2025",
+  "year": 2025,
+  "dt": "2025-01-20T00:00:00",
+  "hero": "/uploads/articles/nww/pink-floyd-pulled-pork-and-portland/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "here-we-go",
+  "title": "Here We Go",
+  "excerpt": "\"Smelling the Roses\" in the great Northwest",
+  "date": "Feb 25, 2024",
+  "year": 2024,
+  "dt": "2024-02-25T00:00:00",
+  "hero": "/uploads/articles/nww/here-we-go/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "beyond-the-postcard-discovering-the",
+  "title": "Beyond the Postcard: Discovering the Real Oregon Coast at Heceta Head",
+  "excerpt": "A Journey of Surprises, from Carnivorous Plants to an Unexpectedly Delicious Mac & Cheese",
+  "date": "Dec 26, 2024",
+  "year": 2024,
+  "dt": "2024-12-26T00:00:00",
+  "hero": "/uploads/articles/nww/beyond-the-postcard-discovering-the/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "making-a-night-of-it-first-thursday",
+  "title": "Making a Night of It: First Thursday Edition",
+  "excerpt": "Kicking off First Thursday with a James Beard nominee and a street full of local talent.",
+  "date": "Aug 1, 2025",
+  "year": 2025,
+  "dt": "2025-08-01T00:00:00",
+  "hero": "/uploads/articles/nww/making-a-night-of-it-first-thursday/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "between-two-gardens",
+  "title": "Between Two Gardens",
+  "excerpt": "How to spend 10 Hours in Portland",
+  "date": "Mar 3, 2024",
+  "year": 2024,
+  "dt": "2024-03-03T00:00:00",
+  "hero": "/uploads/articles/nww/between-two-gardens/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-saturday-in-portland",
+  "title": "A Saturday in Portland",
+  "excerpt": "",
+  "date": "May 18, 2024",
+  "year": 2024,
+  "dt": "2024-05-18T00:00:00",
+  "hero": "/uploads/articles/nww/a-saturday-in-portland/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "date-night-cheat-code",
+  "title": "Date Night Cheat Code",
+  "excerpt": "Sake, gyoza, and a dining room most people don't know exists",
+  "date": "Mar 14, 2026",
+  "year": 2026,
+  "dt": "2026-03-14T00:00:00",
+  "hero": "/uploads/articles/nww/date-night-cheat-code/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "when-the-mayor-came-to-dinner",
+  "title": "When the Mayor Came to Dinner",
+  "excerpt": "A Wine Dinner with Kyle MacLachlan that could only happen in Portland",
+  "date": "Mar 10, 2026",
+  "year": 2026,
+  "dt": "2026-03-10T00:00:00",
+  "hero": "/uploads/articles/nww/when-the-mayor-came-to-dinner/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "never-a-boring-day-in-portland",
+  "title": "Never a Boring Day in Portland",
+  "excerpt": "Chasing views, history, and weirdness across Portland's volcanic landscape.",
+  "date": "Aug 17, 2025",
+  "year": 2025,
+  "dt": "2025-08-17T00:00:00",
+  "hero": "/uploads/articles/nww/never-a-boring-day-in-portland/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "floss-feast-repeat",
+  "title": "Floss, Feast, Repeat",
+  "excerpt": "Why my South Waterfront dental visits always come with saffron rice and mint lemonade.",
+  "date": "Feb 22, 2026",
+  "year": 2026,
+  "dt": "2026-02-22T00:00:00",
+  "hero": "/uploads/articles/nww/floss-feast-repeat/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-toast-to-portland",
+  "title": "A Toast to Portland",
+  "excerpt": "A Weekend of Culinary and Cultural Adventures",
+  "date": "Sep 30, 2024",
+  "year": 2024,
+  "dt": "2024-09-30T00:00:00",
+  "hero": "/uploads/articles/nww/a-toast-to-portland/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-night-with-a-guitar-legend-i-didnt",
+  "title": "A night with a guitar Legend I didn't know I needed in my playlist",
+  "excerpt": "Plus, breaking a cardinal dining rule and a theater with a surprising history",
+  "date": "Oct 17, 2024",
+  "year": 2024,
+  "dt": "2024-10-17T00:00:00",
+  "hero": "/uploads/articles/nww/a-night-with-a-guitar-legend-i-didnt/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "fiddler-on-the-roof-of-my-mouth",
+  "title": "Fiddler on the Roof (of My Mouth)",
+  "excerpt": "Irish whiskey, braised short ribs, and a Celtic musical celebration at the Schnitz",
+  "date": "Mar 18, 2026",
+  "year": 2026,
+  "dt": "2026-03-18T00:00:00",
+  "hero": "/uploads/articles/nww/fiddler-on-the-roof-of-my-mouth/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-magical-tuesday-night-discovering",
+  "title": "A Magical Tuesday Night: Discovering My New Favorite Portland Restaurant",
+  "excerpt": "Inside a transcendent evening of burrata, black truffles, and impeccable Italian craft.",
+  "date": "Dec 5, 2025",
+  "year": 2025,
+  "dt": "2025-12-05T00:00:00",
+  "hero": "/uploads/articles/nww/a-magical-tuesday-night-discovering/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "your-next-lunch-in-portland",
+  "title": "Your Next Lunch in Portland",
+  "excerpt": "A visit to Nong's, where a legendary sauce transforms a simple meal into an obsession",
+  "date": "Aug 2, 2025",
+  "year": 2025,
+  "dt": "2025-08-02T00:00:00",
+  "hero": "/uploads/articles/nww/your-next-lunch-in-portland/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "summer-concert-series-part-10",
+  "title": "Summer Concert Series Part 10",
+  "excerpt": "... of 10",
+  "date": "Sep 28, 2024",
+  "year": 2024,
+  "dt": "2024-09-28T00:00:00",
+  "hero": "/uploads/articles/nww/summer-concert-series-part-10/hero.webp"
+ },
+ {
+  "pub": "nww",
+  "slug": "portland-seafood-and-wine-fest",
+  "title": "Portland Seafood and Wine Fest",
+  "excerpt": "",
+  "date": "Mar 2, 2024",
+  "year": 2024,
+  "dt": "2024-03-02T00:00:00",
+  "hero": "/uploads/articles/nww/portland-seafood-and-wine-fest/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "steam-engines-and-stout",
+  "title": "Steam Engines and Stout",
+  "excerpt": "A Tour Through Portland and My Past",
+  "date": "May 13, 2024",
+  "year": 2024,
+  "dt": "2024-05-13T00:00:00",
+  "hero": "/uploads/articles/nww/steam-engines-and-stout/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-night-with-q",
+  "title": "A Night With Q",
+  "excerpt": "Why this restaurant was the perfect opening act for a show six decades in the making",
+  "date": "Jan 24, 2026",
+  "year": 2026,
+  "dt": "2026-01-24T00:00:00",
+  "hero": "/uploads/articles/nww/a-night-with-q/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "confessions-of-a-carnivore",
+  "title": "Confessions of a Carnivore",
+  "excerpt": "\"This is just damn good food\"",
+  "date": "Aug 3, 2025",
+  "year": 2025,
+  "dt": "2025-08-03T00:00:00",
+  "hero": "/uploads/articles/nww/confessions-of-a-carnivore/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "my-ears-are-sizzling-but-my-soul",
+  "title": "My Ears are Sizzling, but My Soul is Souring",
+  "excerpt": "Ramen and Rock & Roll: Roaming and Reveling in the Alberta Arts District",
+  "date": "Nov 2, 2024",
+  "year": 2024,
+  "dt": "2024-11-02T00:00:00",
+  "hero": "/uploads/articles/nww/my-ears-are-sizzling-but-my-soul/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "the-sun-is-out",
+  "title": "The Sun is Out",
+  "excerpt": "And the Flowers are Blooming!",
+  "date": "Mar 31, 2024",
+  "year": 2024,
+  "dt": "2024-03-31T00:00:00",
+  "hero": "/uploads/articles/nww/the-sun-is-out/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "brunch-to-books-to-beatlemania",
+  "title": "Brunch to Books to Beatlemania",
+  "excerpt": "A Day of Culinary Excellence, Political Discourse, and Artistic Exploration",
+  "date": "Oct 21, 2024",
+  "year": 2024,
+  "dt": "2024-10-21T00:00:00",
+  "hero": "/uploads/articles/nww/brunch-to-books-to-beatlemania/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "the-restaurant-i-forgot-i-loved",
+  "title": "The Restaurant I Forgot I Loved",
+  "excerpt": "A reminder of why Eem belongs in any Portland lunch conversation",
+  "date": "Jan 12, 2026",
+  "year": 2026,
+  "dt": "2026-01-12T00:00:00",
+  "hero": "/uploads/articles/nww/the-restaurant-i-forgot-i-loved/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "warning-may-cause-spinach-gomae-addiction",
+  "title": "Warning: May Cause Spinach Gomae Addiction (Yama Sushi Review)",
+  "excerpt": "",
+  "date": "Jul 7, 2025",
+  "year": 2025,
+  "dt": "2025-07-07T00:00:00",
+  "hero": "/uploads/articles/nww/warning-may-cause-spinach-gomae-addiction/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "from-waffle-wonders-to-cirque-surprises",
+  "title": "From Waffle Wonders to Cirque Surprises: A Portland Adventure in Bites and Sights",
+  "excerpt": "",
+  "date": "Aug 25, 2024",
+  "year": 2024,
+  "dt": "2024-08-25T00:00:00",
+  "hero": "/uploads/articles/nww/from-waffle-wonders-to-cirque-surprises/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "i-made-kay-cry-on-valentines-day",
+  "title": "I Made Kay Cry on Valentine's Day",
+  "excerpt": "They were tears of joy - Come on, I'm not a monster",
+  "date": "Feb 14, 2026",
+  "year": 2026,
+  "dt": "2026-02-14T00:00:00",
+  "hero": "/uploads/articles/nww/i-made-kay-cry-on-valentines-day/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "divine-food-and-maybe-a-little-divine",
+  "title": "Divine food, and maybe a little divine intervention",
+  "excerpt": "This ain't your grandma's church potluck",
+  "date": "Oct 12, 2024",
+  "year": 2024,
+  "dt": "2024-10-12T00:00:00",
+  "hero": "/uploads/articles/nww/divine-food-and-maybe-a-little-divine/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "museums-on-us",
+  "title": "Museums on Us",
+  "excerpt": "BofA's program for free museum attendance",
+  "date": "Mar 3, 2024",
+  "year": 2024,
+  "dt": "2024-03-03T00:00:00",
+  "hero": "/uploads/articles/nww/museums-on-us/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-hidden-gem-just-steps-from-powells",
+  "title": "A Hidden Gem Just Steps from Powell's: Discovering the Delight of Maurice",
+  "excerpt": "Norwegian-French Fusion That Will Delight Your Taste Buds",
+  "date": "Jul 23, 2025",
+  "year": 2025,
+  "dt": "2025-07-23T00:00:00",
+  "hero": "/uploads/articles/nww/a-hidden-gem-just-steps-from-powells/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "beyond-the-menu-g-loves-the-works",
+  "title": "Beyond the Menu: G-Love's \"The Works\" Delivers a Personalized Portland Dining Experience",
+  "excerpt": "From tempting appetizers to indulgent desserts, our culinary journey was in the hands of the expert chef",
+  "date": "Jul 13, 2025",
+  "year": 2025,
+  "dt": "2025-07-13T00:00:00",
+  "hero": "/uploads/articles/nww/beyond-the-menu-g-loves-the-works/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "the-best-food-meals-and-restaurants",
+  "title": "The Best Food, Meals, and Restaurants of 2025",
+  "excerpt": "A look back at the restaurants, dishes, and food moments that shaped my year",
+  "date": "Dec 31, 2025",
+  "year": 2025,
+  "dt": "2025-12-31T00:00:00",
+  "hero": "/uploads/articles/nww/the-best-food-meals-and-restaurants/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "life-and-death-in-portland",
+  "title": "Life and Death in Portland",
+  "excerpt": "",
+  "date": "May 26, 2024",
+  "year": 2024,
+  "dt": "2024-05-26T00:00:00",
+  "hero": "/uploads/articles/nww/life-and-death-in-portland/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "2024-concert-series-part-4",
+  "title": "2024 Concert Series - Part 4",
+  "excerpt": "",
+  "date": "Aug 28, 2024",
+  "year": 2024,
+  "dt": "2024-08-28T00:00:00",
+  "hero": "/uploads/articles/nww/2024-concert-series-part-4/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "dinner-and-a-show",
+  "title": "Dinner and a Show",
+  "excerpt": "2024 Concert Series - Part 1",
+  "date": "May 12, 2024",
+  "year": 2024,
+  "dt": "2024-05-12T00:00:00",
+  "hero": "/uploads/articles/nww/dinner-and-a-show/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-football-fans-24-hours-in-the-emerald",
+  "title": "A Football Fan's 24-hours in the Emerald City",
+  "excerpt": "A wining night to culinary delights to scenic sights",
+  "date": "Oct 12, 2024",
+  "year": 2024,
+  "dt": "2024-10-12T00:00:00",
+  "hero": "/uploads/articles/nww/a-football-fans-24-hours-in-the-emerald/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "funk-soul-and-a-whole-lot-of-groovin",
+  "title": "Funk, Soul and a Whole Lot of Groovin'",
+  "excerpt": "A night of underground musical magic",
+  "date": "Sep 27, 2024",
+  "year": 2024,
+  "dt": "2024-09-27T00:00:00",
+  "hero": "/uploads/articles/nww/funk-soul-and-a-whole-lot-of-groovin/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "summer-concert-series-part-9",
+  "title": "Summer Concert Series Part 9",
+  "excerpt": "Rock and Roll Hall of Fame Inductee Edition",
+  "date": "Sep 24, 2024",
+  "year": 2024,
+  "dt": "2024-09-24T00:00:00",
+  "hero": "/uploads/articles/nww/summer-concert-series-part-9/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "waffles-waffles-waffles",
+  "title": "Waffles, Waffles, Waffles...",
+  "excerpt": "... And Antiques",
+  "date": "Mar 31, 2024",
+  "year": 2024,
+  "dt": "2024-03-31T00:00:00",
+  "hero": "/uploads/articles/nww/waffles-waffles-waffles/hero.png"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-perfect-pairing-of-fire-and-ice",
+  "title": "A perfect pairing of Fire and Ice",
+  "excerpt": "Discovering the delightful combination of spicy Korean fare and icy Ube soft serve on a sweltering Portland evening",
+  "date": "Sep 1, 2025",
+  "year": 2025,
+  "dt": "2025-09-01T00:00:00",
+  "hero": "/uploads/articles/nww/a-perfect-pairing-of-fire-and-ice/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "portland-in-a-day-a-market-marathon",
+  "title": "Portland in a Day: A Market Marathon",
+  "excerpt": "A day of food, finds, and festive crowds across the city.",
+  "date": "Dec 7, 2025",
+  "year": 2025,
+  "dt": "2025-12-07T00:00:00",
+  "hero": "/uploads/articles/nww/portland-in-a-day-a-market-marathon/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "one-bite-wonder-in-a-sea-of-disappointment",
+  "title": "One Bite Wonder in a Sea of Disappointment at Longbaan",
+  "excerpt": "High expectations met with underwhelming flavors and glacial pacing",
+  "date": "Jul 21, 2025",
+  "year": 2025,
+  "dt": "2025-07-21T00:00:00",
+  "hero": "/uploads/articles/nww/one-bite-wonder-in-a-sea-of-disappointment/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "old-jazz-and-new-friends-unforgettable",
+  "title": "Old Jazz and New Friends, Unforgettable Vibes During a Night Out in Portland",
+  "excerpt": "",
+  "date": "Sep 19, 2024",
+  "year": 2024,
+  "dt": "2024-09-19T00:00:00",
+  "hero": "/uploads/articles/nww/old-jazz-and-new-friends-unforgettable/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "a-winter-escape-to-leavenworth-and",
+  "title": "A Winter Escape to Leavenworth and Seattle",
+  "excerpt": "Exploring Bavarian Charm and Urban Sophistication",
+  "date": "Jan 1, 2025",
+  "year": 2025,
+  "dt": "2025-01-01T00:00:00",
+  "hero": "/uploads/articles/nww/a-winter-escape-to-leavenworth-and/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "cocktail-bliss-restaurant-miss-and",
+  "title": "Cocktail Bliss, Restaurant Miss, and a Symphony Hit",
+  "excerpt": "A Saturday of sipping, snacking, and a musical performance that was out of this world",
+  "date": "Oct 13, 2024",
+  "year": 2024,
+  "dt": "2024-10-13T00:00:00",
+  "hero": "/uploads/articles/nww/cocktail-bliss-restaurant-miss-and/hero.jpeg"
+ },
+ {
+  "pub": "nww",
+  "slug": "omsi-after-dark-the-verdict",
+  "title": "OMSI After Dark: The Verdict",
+  "excerpt": "Come for the fantastic special exhibits and child-free atmosphere, but temper your expectations for the rest.",
+  "date": "Sep 6, 2025",
+  "year": 2025,
+  "dt": "2025-09-06T00:00:00",
+  "hero": "/uploads/articles/nww/omsi-after-dark-the-verdict/hero.jpeg"
+ }
+]
